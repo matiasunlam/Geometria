@@ -1,2 +1,2 @@
 # Geometria
-Correspondiente a lo hecho en la segunda clase del taller.
+Correspondiente a lo hecho en la clase del taller.
